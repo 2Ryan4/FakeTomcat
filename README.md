@@ -1,0 +1,2 @@
+# FakeTomcat
+参考韩顺平老师javaweb的视频，简单地模拟实现Tomcat收到浏览器请求以及返回响应的过程
